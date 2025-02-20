@@ -1,3 +1,5 @@
+# Profitable App Profiles for App Store & Google Play
+
 ## Project Overview
 
 This project aims to analyse mobile app data from the **Apple App Store** and **Google Play Store** to identify characteristics of profitable apps. The objective is to help app developers make data-driven decisions about app categories, pricing models, and rating trends.
